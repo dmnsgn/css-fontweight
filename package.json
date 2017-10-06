@@ -1,0 +1,23 @@
+{
+  "name": "css-fontweight",
+  "version": "1.0.0",
+  "description": "font-weight variables for css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmnsgn/css-fontweight"
+  },
+  "keywords": [
+    "css",
+    "font-weight",
+    "variables"
+  ],
+  "author": {
+    "name": "Damien Seguin",
+    "url": "http://dmnsgn.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnsgn/css-fontweight/issues"
+  },
+  "homepage": "https://github.com/dmnsgn/css-fontweight"
+}
